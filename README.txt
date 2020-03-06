@@ -13,3 +13,6 @@ Documentação:
 dr-banco.dia ->  Diagrama de Entidade Relacionamento do Banco de Dados;
 Engenharia do trabalho.odt ->  Documento com os Requisitos Funcionais, Casos de Uso e Regras de Negócio;
 arquitetura-da-aplicação.dia ->  A forma como os componentes da aplicação estão organizados;
+
+
+Para executar o projeto você deve baixa-lo e importar separadamente o codigo de cada parte (Atendente, Cliente e Servidor) na sua IDE, depois disso Executar.
